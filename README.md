@@ -1,0 +1,2 @@
+# ShamanTools
+Programación y Algoritmia. 
